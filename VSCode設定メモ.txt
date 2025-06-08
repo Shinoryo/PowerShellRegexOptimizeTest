@@ -1,0 +1,8 @@
+﻿VSCodeで、次の拡張機能をインストールする。
+
+名前: PowerShell
+ID: ms-vscode.powershell
+説明: Develop PowerShell modules, commands and scripts in Visual Studio Code!
+バージョン: 2025.0.0
+パブリッシャー: Microsoft
+VS Marketplace リンク: https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell
